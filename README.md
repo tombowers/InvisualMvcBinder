@@ -1,5 +1,6 @@
 # InvisualMvcBinder
 
+[![NuGet](https://img.shields.io/nuget/v/Invisual.Libraries.Mvc.Binder.svg)](https://www.nuget.org/packages/Invisual.Libraries.Mvc.Binder)
 [![License](https://img.shields.io/github/license/tombowers/InvisualMvcBinder.svg)](https://github.com/tombowers/InvisualMvcBinder/blob/master/LICENSE)
 
 Bind MVC model properties by name. Includes configurable type conversion.
